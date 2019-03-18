@@ -1,0 +1,111 @@
+commit 9cea8c0d94bcc9d051f9758240ebcee731b53571
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:45:30 2019 +0200
+
+    file2 rename file1 remove
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d1c26b6d997cab48b7cdb5438fa894d76db8b5e0
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:39:38 2019 +0200
+
+    file1 file2 ja file3 luotu
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 5a7dd6c04536c520934d6a6a3947bc41a82dd108
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:28:10 2019 +0200
+
+    eka.txt ja kolmas.txt edit
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 2 ++
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 180b81dbbae7951a00cfe84189232efa30c0e348
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:25:15 2019 +0200
+
+    tiedosto.txt nimimuutos
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 86951722be029c15eff364bcca9c1a6b240885c3
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:20:47 2019 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e908ee7653a4e0bb2b7e1299ccb0458c16c149b7
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:19:00 2019 +0200
+
+    tiedosto.txt edit
+
+ tiedosto.txt | 19 +------------------
+ 1 file changed, 1 insertion(+), 18 deletions(-)
+
+commit 193724c299b63fa9e821c55bf3416e7675da473e
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:14:14 2019 +0200
+
+    tiedosto.txt edit
+
+ tiedosto.txt | 89 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 89 insertions(+)
+
+commit 7664064ffea4f773cc662799e46c3d65c26cb58d
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:09:10 2019 +0200
+
+    jokin.txt luotu
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit e0348226856eedb3240e936054c48150a8432bf6
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:07:22 2019 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 84ad6dbe9f650497a6f033221215ad9e78b303ef
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:03:31 2019 +0200
+
+    toinen.txt lisätty
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4403be1a71cd9c86c7d698a0e7fbbeb060e97aa3
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 11:01:23 2019 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit ddfed710f1940e2c6df60020df84cc81f703bcd9
+Author: Kaisla Vuorenmaa <kaisla.vuorenmaa@helsinki.fi>
+Date:   Mon Mar 18 10:56:44 2019 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
